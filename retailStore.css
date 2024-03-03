@@ -101,6 +101,7 @@ h2{
 
 .category-images {
     display: flex;
+    justify-content: space-between;
 }
 
 .category-image {
@@ -139,3 +140,4 @@ h2{
 .category-image:hover .overlay {
     opacity: 1;
 }
+
